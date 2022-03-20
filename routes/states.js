@@ -11,6 +11,8 @@ const states = data.estados.map(({sigla, nome}) => {
 
 /* GET users listing. */
 router.get('/', function(req, res, next) {
+  res.setHeader('Access-Control-Allow-Origin', '*');
+
   res.send(states);
 });
 

@@ -5,6 +5,8 @@ const data = require('../public/assets/brazil-data.json')
 const states = data.estados
 
 router.get('/:sigla', function(req, res, next) {
+  res.setHeader('Access-Control-Allow-Origin', '*');
+
   const param = req.params.sigla.toUpperCase();
 
   // Return an item that matches the param
