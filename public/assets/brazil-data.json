@@ -2,7 +2,7 @@
   "estados": [
     {
       "sigla": "AC",
-      "nome": "Acre",
+      "label": "Acre",
       "cidades": [
         "Acrelândia",
         "Assis Brasil",
@@ -30,7 +30,7 @@
     },
     {
       "sigla": "AL",
-      "nome": "Alagoas",
+      "label": "Alagoas",
       "cidades": [
         "Água Branca",
         "Anadia",
@@ -138,7 +138,7 @@
     },
     {
       "sigla": "AM",
-      "nome": "Amazonas",
+      "label": "Amazonas",
       "cidades": [
         "Alvarães",
         "Amaturá",
@@ -206,7 +206,7 @@
     },
     {
       "sigla": "AP",
-      "nome": "Amapá",
+      "label": "Amapá",
       "cidades": [
         "Amapá",
         "Calçoene",
@@ -228,7 +228,7 @@
     },
     {
       "sigla": "BA",
-      "nome": "Bahia",
+      "label": "Bahia",
       "cidades": [
         "Abaíra",
         "Abaré",
@@ -651,7 +651,7 @@
     },
     {
       "sigla": "CE",
-      "nome": "Ceará",
+      "label": "Ceará",
       "cidades": [
         "Abaiara",
         "Acarape",
@@ -841,7 +841,7 @@
     },
     {
       "sigla": "DF",
-      "nome": "Distrito Federal",
+      "label": "Distrito Federal",
       "cidades": [
         "Águas Claras",
         "Brasília",
@@ -858,7 +858,7 @@
     },
     {
       "sigla": "ES",
-      "nome": "Espírito Santo",
+      "label": "Espírito Santo",
       "cidades": [
         "Afonso Cláudio",
         "Água Doce do Norte",
@@ -942,7 +942,7 @@
     },
     {
       "sigla": "GO",
-      "nome": "Goiás",
+      "label": "Goiás",
       "cidades": [
         "Abadia de Goiás",
         "Abadiânia",
@@ -1194,7 +1194,7 @@
     },
     {
       "sigla": "MA",
-      "nome": "Maranhão",
+      "label": "Maranhão",
       "cidades": [
         "Açailândia",
         "Afonso Cunha",
@@ -1417,7 +1417,7 @@
     },
     {
       "sigla": "MG",
-      "nome": "Minas Gerais",
+      "label": "Minas Gerais",
       "cidades": [
         "Abadia dos Dourados",
         "Abaeté",
@@ -2276,7 +2276,7 @@
     },
     {
       "sigla": "MS",
-      "nome": "Mato Grosso do Sul",
+      "label": "Mato Grosso do Sul",
       "cidades": [
         "Água Clara",
         "Alcinópolis",
@@ -2359,7 +2359,7 @@
     },
     {
       "sigla": "MT",
-      "nome": "Mato Grosso",
+      "label": "Mato Grosso",
       "cidades": [
         "Acorizal",
         "Água Boa",
@@ -2504,7 +2504,7 @@
     },
     {
       "sigla": "PA",
-      "nome": "Pará",
+      "label": "Pará",
       "cidades": [
         "Abaetetuba",
         "Abel Figueiredo",
@@ -2653,7 +2653,7 @@
     },
     {
       "sigla": "PB",
-      "nome": "Paraíba",
+      "label": "Paraíba",
       "cidades": [
         "Água Branca",
         "Aguiar",
@@ -2882,7 +2882,7 @@
     },
     {
       "sigla": "PE",
-      "nome": "Pernambuco",
+      "label": "Pernambuco",
       "cidades": [
         "Abreu e Lima",
         "Afogados da Ingazeira",
@@ -3073,7 +3073,7 @@
     },
     {
       "sigla": "PI",
-      "nome": "Piauí",
+      "label": "Piauí",
       "cidades": [
         "Acauã",
         "Agricolândia",
@@ -3301,7 +3301,7 @@
     },
     {
       "sigla": "PR",
-      "nome": "Paraná",
+      "label": "Paraná",
       "cidades": [
         "Abatiá",
         "Adrianópolis",
@@ -3706,7 +3706,7 @@
     },
     {
       "sigla": "RJ",
-      "nome": "Rio de Janeiro",
+      "label": "Rio de Janeiro",
       "cidades": [
         "Angra dos Reis",
         "Aperibé",
@@ -3804,7 +3804,7 @@
     },
     {
       "sigla": "RN",
-      "nome": "Rio Grande do Norte",
+      "label": "Rio Grande do Norte",
       "cidades": [
         "Acari",
         "Açu",
@@ -3977,7 +3977,7 @@
     },
     {
       "sigla": "RO",
-      "nome": "Rondônia",
+      "label": "Rondônia",
       "cidades": [
         "Alta Floresta d'Oeste",
         "Alto Alegre do Parecis",
@@ -4035,7 +4035,7 @@
     },
     {
       "sigla": "RR",
-      "nome": "Roraima",
+      "label": "Roraima",
       "cidades": [
         "Alto Alegre",
         "Amajari",
@@ -4056,7 +4056,7 @@
     },
     {
       "sigla": "RS",
-      "nome": "Rio Grande do Sul",
+      "label": "Rio Grande do Sul",
       "cidades": [
         "Aceguá",
         "Água Santa",
@@ -4558,7 +4558,7 @@
     },
     {
       "sigla": "SC",
-      "nome": "Santa Catarina",
+      "label": "Santa Catarina",
       "cidades": [
         "Abdon Batista",
         "Abelardo Luz",
@@ -4857,7 +4857,7 @@
     },
     {
       "sigla": "SE",
-      "nome": "Sergipe",
+      "label": "Sergipe",
       "cidades": [
         "Amparo de São Francisco",
         "Aquidabã",
@@ -4938,7 +4938,7 @@
     },
     {
       "sigla": "SP",
-      "nome": "São Paulo",
+      "label": "São Paulo",
       "cidades": [
         "Adamantina",
         "Adolfo",
@@ -5589,7 +5589,7 @@
     },
     {
       "sigla": "TO",
-      "nome": "Tocantins",
+      "label": "Tocantins",
       "cidades": [
         "Abreulândia",
         "Aguiarnópolis",

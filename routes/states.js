@@ -2,10 +2,10 @@ var express = require('express');
 var router = express.Router();
 const data = require('../public/assets/brazil-data.json')
 
-const states = data.estados.map(({sigla, nome}) => {
+const states = data.estados.map(({sigla, label}) => {
   return {
     sigla,
-    nome
+    label
   }
 })
 
